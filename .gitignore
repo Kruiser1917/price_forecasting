@@ -1,0 +1,43 @@
+# 1. Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+*.egg
+
+# 2. Virtual environments
+.venv/
+venv/
+env/
+
+# 3. IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# 4. System files
+.DS_Store
+Thumbs.db
+
+# 5. Config/secrets/logs
+.env
+*.log
+logs/
+
+# 6. Test coverage
+.coverage
+htmlcov/
+coverage.xml
+
+# 7. SQLite databases
+*.sqlite
+*.sqlite3
+price_forecast.db
+
+# 8. Misc
+*.tmp
+*.bak
