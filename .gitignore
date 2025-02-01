@@ -41,3 +41,4 @@ price_forecast.db
 # 8. Misc
 *.tmp
 *.bak
+.idea
